@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         </nav>
       </header>
 
-      <div className="bg-fixed h-screen top-0 bg-cover" style={{backgroundImage: 'url("./background_top.png")'}}></div>
+      <div className="bg-fixed h-screen w-screen top-0 bg-cover bg-no-repeat bg-center" style={{backgroundImage: 'url("./background_top.png")'}}></div>
 
 
       <footer>
